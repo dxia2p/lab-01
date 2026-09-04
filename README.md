@@ -8,4 +8,4 @@
 N/A
 
 ## Verbal Collaboration
-N/A
+Jeffrey Chen, jeffre20 - Helped him set up project in android studio
